@@ -1,5 +1,3 @@
-import sys
-sys.path.append('..\\..\\virtual_opencv\\Lib\\site-packages\\cv2')
 import cv2 as cv 
 
 # Images, Live and Existing videos
